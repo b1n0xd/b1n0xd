@@ -19,10 +19,10 @@
 
 
 ---
-### ⚙️ GitHub Activity
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7F7F7&random=false&width=435&lines=%E2%9A%99%EF%B8%8F+GitHub+Activity)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b1n0xd&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ⚙️ GitHub Analytics
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7F7F7&random=false&width=435&lines=%E2%9A%99%EF%B8%8F+GitHub+Analytics)](https://git.io/typing-svg)
 
 <table>
   <tr>
