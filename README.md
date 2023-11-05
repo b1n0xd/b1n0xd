@@ -41,7 +41,7 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7F7F7&random=false&width=435&lines=%F0%9F%8F%86+GitHub+Profile+Trophy%3A)](https://git.io/typing-svg)
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=b1n0xd&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
@@ -58,7 +58,7 @@
   <img src="https://profile-counter.glitch.me/b1n0xd/count.svg" />  
 </p>
 
-<h3>Social Media</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7F7F7&random=false&width=435&lines=Social+Media)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/-lucianovieirapro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianovieirapro/)](https://www.linkedin.com/in/lucianovieirapro/)
 [![Gmail Badge](https://img.shields.io/badge/-lucianovieiradev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianovieiradev@gmail.co)](mailto:lucianovieiradev@gmail.com)
